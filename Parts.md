@@ -10,6 +10,7 @@ There are many different parts on a PC that you'll need to consider when buying,
 7.  Cooling - The system will need a cooling system.  This can be either a series of fans that blow air through the system and across your components to help keep temperatures low, or a liquid cooling system that is used to cool the GPU and CPU.  Liquid cooling is a much more expensive setup than just buying a fan.  Also note,  you will only need to buy a fan for you CPU as cases and GPUs usually already come equiped with these.
 8.  Operating SYstem - This is not a part, but a key component one will need to buy is the Operating System to make the pc run.  Users usually purchase Wihdows 10.  Most people purchase the 64-bit system.
 9.  Thermal Paste - This is not a part, but very important.  This is used between the CPU and the heatsink of the cooling device you chose for the CPU.  This helps with the transmission of the heat from the CPU to the cooler so it can keep the temperature of the CPU in safe operating range.
+10.  Power Supply - This is what powers your whole pc.  Modular power supplies are the best, as they allow you to only put wires on it that you will need, and not have wires on there that you wont use.
 
 These are all the recommended and required parts for building a pc.  The next section will detail on how to assemble all the parts and how to get the PC operational.
 [title](https://www.example.com)
