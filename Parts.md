@@ -13,4 +13,4 @@ There are many different parts on a PC that you'll need to consider when buying,
 10.  Power Supply - This is what powers your whole pc.  Modular power supplies are the best, as they allow you to only put wires on it that you will need, and not have wires on there that you wont use.
 
 These are all the recommended and required parts for building a pc.  The next section will detail on how to assemble all the parts and how to get the PC operational.
-[How To](https://github.com/alv84/Final-Project/blob/510459291f3d447da86f9433208fa9091773e397/How%20To.md), or go back to the [Overview](https://github.com/alv84/Final-Project/blob/294411695669b321f93fcf6a14892c5f5d078d7f/README.md).
+[How To](How%20To.md), or go back to the [Overview](README.md).
