@@ -10,4 +10,4 @@ There are other things that can be bought that people use, but this solely depen
 6. [Webcam](https://www.logitech.com/en-us/products/webcams/c922-pro-stream-webcam.960-001087.html?crid=34)
 7. [Video Capture Card](https://www.elgato.com/en/game-capture-hd60-pro)
 
-Now that you have all the information you need, and a look at some of the accessories that are avaliabe to you, feel free to visit the other pages again,[Overview](https://www.example.com)[Parts](https://www.example.com)[title](https://www.example.com), if nothing else is needed, then good luck with your newly built PC.
+Now that you have all the information you need, and a look at some of the accessories that are avaliabe to you, feel free to visit the other pages again,[Overview](https://github.com/alv84/Final-Project/blob/294411695669b321f93fcf6a14892c5f5d078d7f/README.md),[Parts](https://github.com/alv84/Final-Project/blob/294411695669b321f93fcf6a14892c5f5d078d7f/Parts.md),[How To](https://www.example.com), if nothing else is needed, then good luck with your newly built PC.
